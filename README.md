@@ -75,12 +75,12 @@ echo "[+] Incident response reconnaissance completed. Check the $OUTPUT_DIR dire
    - The `nmap` tool is used to scan the IP address for open ports and services.
 
 ### How to Use:
-1. Save the script as `incident_response.sh`.
+1. Save the script as `iresponse.sh.sh`.
 2. Make it executable:
    ```bash
-   chmod +x incident_response.sh
+   chmod +x iresponse.sh.sh
    ```
 3. Run the script with your pcap file as input:
    ```bash
-   ./incident_response.sh example.pcap
+   ./iresponse.sh example.pcap
    ```
