@@ -1,7 +1,7 @@
 # iresponce
 Automates incident response reconnaissance on the source IP addresses of an attack from a pcap file using Wireshark and Nmap
 
-### Script: `incident_response.sh`
+### Script: `iresponse.sh`
 
 ```bash
 #!/bin/bash
